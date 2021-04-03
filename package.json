@@ -1,0 +1,14 @@
+{
+  "name": "optimize-paths-svg-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "flatten-svg": "^0.3.0",
+    "optimize-paths": "^1.1.1",
+    "webpack": "^5.30.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.6.0"
+  }
+}
